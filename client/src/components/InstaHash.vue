@@ -77,12 +77,6 @@
 
         <div class="row">
             <div class="col">
-                <p>hashtags and min max: '{{ htList }}'</p>
-                <p>globalmax: '{{ globalmax }}'</p>
-                <p>globalmin: '{{ globalmin }}'</p>
-                <p>Date range: '{{ dateRange }}'</p>
-                <p>payload: '{{ payload }}'</p>
-                <p>output: '{{ output }}'</p>
                 <h1>InstaHash</h1>
                 <hr>
                 <br>
